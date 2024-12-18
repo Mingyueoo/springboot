@@ -1,0 +1,30 @@
+person:
+  userName: zhangsan
+  boss: true
+  birth: 1999/01/01
+  age: 18
+  interests:
+    - basketball
+    - football
+  animal:
+    - cat
+    - dog
+  score:
+    - english: 90
+    - math: 99
+  salaries:
+    - 9999.00
+    - 8888.00
+  pet:
+    name: tom
+    weight: 100
+  allPets:
+    sick:
+      - {name: tom1, weight: 100}
+      - name: tom3
+        weight: 101
+      - name: tom4
+        weight: 102
+    health:
+      - {name: huahua, weight: 105}
+      - {name: mingming, weight: 106}
